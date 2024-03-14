@@ -1,0 +1,355 @@
+{
+    "AMPA ANTONIO MACHADO": {
+        "activities": [
+            "TALLER FIESTA DE CARNAVAL",
+            "TALLER FIESTA DE CARNAVAL",
+            "TALLER DIA DEL PADRE",
+            "TALLER DIA DE LA MADRE",
+            "FIESTA FIN DE CURSO",
+            "CONCURSO LOGOTIPO AMPA",
+            "ASOCIACION FAPA ALCOBENDAS",
+            "ASOCIACION FAPA GINER DE LOS RIOS",
+            "FIESTA DE NAVIDAD",
+            "HALLOWEEN",
+            "SAN ISIDRO"
+        ],
+        "cost": 243955.0
+    },
+    "AMPA BACHILLER ALONSO LOPEZ": {
+        "activities": [
+            "MATEMATICAS MANIPULATIVAS",
+            "MATEMATICAS MANIPULATIVAS",
+            "PROYECTO DE INGLES",
+            "EXCURSIONES PRIMARIA",
+            "GRADUACIÓN INFANTIL",
+            "GRADUACIÓN 6 PRIM",
+            "REVISTA COLEGIO ENTRETIZAS",
+            "FIESTA INTERCULTURAL"
+        ],
+        "cost": 368000.0
+    },
+    "AMPA CASTILLA": {
+        "activities": [
+            "CONCURSO TARJETAS NAVIDEÑAS",
+            "CONCURSO TARJETAS NAVIDEÑAS",
+            "TALLER COMO MEJORAR LA AUTOESTIMA DE NUESTROS HIJOS",
+            "FIESTA FIN DE CURSO",
+            "PROPUESTA DE ACTIV EXTRAESCOLARES,INSCRIPCIONES. INTERCAMBIO LIBROS",
+            "FEDERACION",
+            "FIESTA REYES MAGOS",
+            "CHOCOLATADA",
+            "SAN ISIDRO",
+            "HALLOWEEN",
+            "CARNAVAL EN LA AULAS"
+        ],
+        "cost": 272844.0
+    },
+    "AMPA DAOIZ Y VELARDE": {
+        "activities": [
+            "PLAN LECTOR",
+            "PLAN LECTOR",
+            "CONCIERTO MUSICA DIVERTIDA",
+            "TALLER HABILIDADES SOCIALES O TECNICAS DE ESTUDIO",
+            "FIESTA FIN DE CURSO",
+            "GRADUACIONES INFANTIL Y SEXTO",
+            "AGENDAS",
+            "EXPOSICION FOTOGRAFICA",
+            "NAVIDAD"
+        ],
+        "cost": 352274.0
+    },
+    "AMPA EMILIO CASADO": {
+        "activities": [
+            "DIA DE LA MUSICA",
+            "DIA DE LA MUSICA",
+            "SALIDA CULTURAL AL TEATRO",
+            "FESTIVAL FIN DE CURSO",
+            "FIESTA FIN DE CURSO",
+            "ASOCIACION FAPA GINER DE LOS RIOS",
+            "ASOCIACION FAPA ALCOBENDAS",
+            "FIESTA NAVIDAD",
+            "INTERCENTROS ATLETISMO"
+        ],
+        "cost": 331134.0
+    },
+    "AMPA FEDERICO GARCIA LORCA": {
+        "activities": [
+            "DIA DEL LIBRO",
+            "DIA DEL LIBRO",
+            "TALLERES DE HALLOWEEN Y ADORNOS NAVIDAD",
+            "FIESTA FIN DE CURSO"
+        ],
+        "cost": 331906.0
+    },
+    "AMPA GABRIEL Y GALAN": {
+        "activities": [
+            "EXCURSIONES",
+            "EXCURSIONES",
+            "HUERTO ESCOLAR",
+            "CUENTACUENTOS",
+            "TALLER NAVIDEÑO",
+            "FIESTA FIN DE CURSO",
+            "PERIODICO",
+            "CARNAVAL",
+            "SAN ISIDRO"
+        ],
+        "cost": 389302.0
+    },
+    "AMPA LUIS BUÑUEL": {
+        "activities": [
+            "CONCURSO FELICITACIONES DE NAVIDAD",
+            "CONCURSO FELICITACIONES DE NAVIDAD",
+            "MERCADILLO NAVIDEÑO",
+            "GRADUACION",
+            "FIESTA FIN DE CURSO",
+            "PARTICIPACION FAPA ALCOBENDAS Y FAPA GINER DE LOS RIOS",
+            "FIESTA NAVIDAD",
+            "SAN ISIDRO",
+            "FIESTA DE HALLOWEEN",
+            "CASTAÑADA",
+            "CARNAVAL EN LAS AULAS: MERCADILLO MEDIEVAL"
+        ],
+        "cost": 217100.0
+    },
+    "AMPA MIGUEL HERNANDEZ": {
+        "activities": [
+            "CERTAMEN LITERARIO Y DE DIBUJO",
+            "CERTAMEN LITERARIO Y DE DIBUJO",
+            "SEMANA CULTURAL",
+            "EXCURSION A MADRID",
+            "EXCURSION A SIERRA DE GUADARRAMA",
+            "CONCURSO DE TARJETAS NAVIDEÑAS",
+            "PARTICIPACION FESTIVAL FAPA",
+            "FESTIVAL FIN CURSO",
+            "ENTREGA DE ORLAS 3º INFANTIL",
+            "PARTICIPACION EN FEDERACIONES",
+            "VISITA REYES MAGOS",
+            "FIESTA NAVIDAD",
+            "TORNEOS DEPORTIVOS"
+        ],
+        "cost": 322335.0
+    },
+    "AMPA MIRAFLORES": {
+        "activities": [
+            "SALIDA CULTURAL SAFARI",
+            "SALIDA CULTURAL SAFARI",
+            "FIESTA FIN DE CURSO",
+            "CUENTOS EN MIRAFLORES",
+            "FIESTA DE NAVIDAD"
+        ],
+        "cost": 428721.0
+    },
+    "AMPA PARQUE CATALUÑA": {
+        "activities": [
+            "CONCURSO DE TARJETAS NAVIDEÑAS",
+            "CONCURSO DE TARJETAS NAVIDEÑAS",
+            "FUTBOL",
+            "MULTIDEPORTE",
+            "GRADUACIÓN",
+            "FIESTA FIN DE CURSO",
+            "PARTICIPACIÓN FAPA",
+            "NAVIDAD",
+            "DIA DEL LIBRO"
+        ],
+        "cost": 289444.0
+    },
+    "AMPA PROFESOR TIERNO GALVÁN": {
+        "activities": [
+            "FIESTA FIN DE CURSO",
+            "FIESTA FIN DE CURSO",
+            "FAPA",
+            "DIA DEL LIBRO",
+            "DIA DE SAN ISIDRO",
+            "CONCURSO DE CHRISTMAS",
+            "FIESTA NAVIDAD"
+        ],
+        "cost": 158600.0
+    },
+    "AMPA SEIS DE DICIEMBRE": {
+        "activities": [
+            "EXCURSION GRANJA TALAMANCA",
+            "EXCURSION GRANJA TALAMANCA",
+            "NAVIDAD",
+            "CUENTACUENTOS AMBIENTALES",
+            "FIN DE CURSO",
+            "FESTIVAL FIN DE CURSO",
+            "AGENDA ESCOLAR"
+        ],
+        "cost": 242600.0
+    },
+    "AMPA VALDEPALITOS": {
+        "activities": [
+            "VISITA MUSEO DEL VIDRIO",
+            "VISITA MUSEO DEL VIDRIO",
+            "SALIDAS CULTURALES EN FAMILIA",
+            "TALLER EXTRAESCOLAR DISFRACES",
+            "TALLER EXTRAESCOLAR DANZA ESPAÑOLA",
+            "TALLER EXTRAESCOLAR DANZA MODERNA",
+            "FIESTA FIN DE CURSO",
+            "FESTIVAL DANZA Y TEATRO",
+            "CEREMONIA GRADUACION 6º PRIMARIA",
+            "ORLA PARA 6º PRIMARIA",
+            "CEREMONIA GRADUACION INFANTIL",
+            "BOLETIN APA",
+            "PARTICIPACION FAPA ALCOBENDAS",
+            "PARTICIPACION FESTIVAL FAPA",
+            "PARTICIPACION FAPA GINER DE LOS RIOS",
+            "FIESTA DE NAVIDAD",
+            "TORNEO MULTIDEPORTE",
+            "SEMANA CULTURAL"
+        ],
+        "cost": 431500.0
+    },
+    "AMPA LA CHOPERA": {
+        "activities": [
+            "SEMANA DEL LIBRO",
+            "SEMANA DEL LIBRO",
+            "TALLER DE MUSICA",
+            "FIESTA GRADUACION"
+        ],
+        "cost": 242000.0
+    },
+    "AMPA EL CUQUILLO": {
+        "activities": [
+            "SEMANA DEL LIBRO",
+            "SEMANA DEL LIBRO",
+            "DIA DE LA INFANCIA",
+            "FIESTA FIN DE CURSO Y GRADUACION",
+            "FIESTA NAVIDAD"
+        ],
+        "cost": 211783.0
+    },
+    "AMPA VALDELAPARRA": {
+        "activities": [
+            "SEMANA DEL LIBRO Y FERIA DEL LIBRO",
+            "SEMANA DEL LIBRO Y FERIA DEL LIBRO",
+            "EL HUERTO",
+            "TALLER DEL NIDO",
+            "FIESTA GRADUACION",
+            "QUERIDOS REYES MAGOS",
+            "FERIA DE LAS ASOCIACIONES",
+            "SAN ISIDRO"
+        ],
+        "cost": 315000.0
+    },
+    "AMPA RIVENDEL": {
+        "activities": [
+            "DIA DE LA PAZ",
+            "DIA DE LA PAZ",
+            "SEMANA CULTURAL Y DIA DEL LIBRO",
+            "VISITA GRANJA ESCUELA",
+            "FIESTA FIN DE CURSO",
+            "PERTENENCIA A LA FAPA",
+            "CARNAVAL",
+            "BELEN NAVIDEÑO",
+            "FIESTA DE NAVIDAD"
+        ],
+        "cost": 243000.0
+    },
+    "AMPA AGORA": {
+        "activities": [
+            "PREMIOS AL RENDIMIENTO. SUPERACIÓN Y CONVICENCIA",
+            "PREMIOS AL RENDIMIENTO. SUPERACIÓN Y CONVICENCIA",
+            "ANIMACION A LA LECTURA",
+            "SALIDA AL TEATRO",
+            "EXCURSION CULTURAL VISITA CORRALAS DE MADRID",
+            "CONCURSO FOTOGRAFICO CONSTITUCION",
+            "ACTO DE GRADUACIÓN",
+            "INTERCAMBIO DE LIBROS DE TEXTO",
+            "JORNADA DE CONVIVENCIA",
+            "MILLA ESCOLAR"
+        ],
+        "cost": 292334.0
+    },
+    "AMPA ALDEBARAN": {
+        "activities": [
+            "PREMIOS AL RENDIMIENTO. SUPERACIÓN Y CONVIVENCIA",
+            "PREMIOS AL RENDIMIENTO. SUPERACIÓN Y CONVIVENCIA",
+            "ANIMACION A LA LECTURA",
+            "PRACTICANDO IDIOMAS",
+            "CONCURSO DE TARJETAS NAVIDEÑAS",
+            "GRADUACION ALUMNOS BACHILLER",
+            "BOLETIN INFORMATIVO",
+            "PARTICIPACION EN FAPAS",
+            "TALLER CHAPAS E IMANES"
+        ],
+        "cost": 408710.0
+    },
+    "AMPA GINER DE LOS RIOS": {
+        "activities": [
+            "CERTAMEN TARJETA NAVIDAD",
+            "CERTAMEN TARJETA NAVIDAD",
+            "CERTAMEN DE RELATO Y POESIA",
+            "CERTAMEN RECREANDO EL JARDIN DEL GINER",
+            "CERTAMEN ENSAYO FILOSOFICO RAQUEL PUSZKIN",
+            "CEREMONIA GRADUACION BACHILLERATO",
+            "LIBRO DE RELATO Y POESIAS LA PLUMA LITERARIA",
+            "PARTICIPACION FAPA ALCOBENDAS Y FAPA MADRID"
+        ],
+        "cost": 273100.0
+    },
+    "AMPA SEVERO OCHOA": {
+        "activities": [
+            "TALLER DE MOTIVACION Y AUTOESTIMA",
+            "TALLER DE MOTIVACION Y AUTOESTIMA",
+            "TALLER DE TECNICAS DE ESTUDIO",
+            "CONFERENCIA COLOQUIO SOBRE PREVENCION DEL FRACASO ESCOLAR",
+            "EXPOSICION Y EDICION ALBUM FOTOGRAFICO INTERCAMBIO EEUU",
+            "EXCURSION FIN DE CURO A PARQUE ECO-AVENTURA",
+            "GRADUACION CICLOS Y BACHILLERATOS",
+            "FERIA DE ASOCIACIONES DE ALCOBENDAS",
+            "PERTENENCIA A FAPA ALCOBENDAS",
+            "TORNEO DE AJEDREZ",
+            "FIESTA DE NAVIDAD"
+        ],
+        "cost": 454594.0
+    },
+    "AMPA VIRGEN DE LA PAZ": {
+        "activities": [
+            "JORNADA LUDICO DEPORTIVA FIN DE CURSO",
+            "JORNADA LUDICO DEPORTIVA FIN DE CURSO",
+            "PARTICIPACION FAPA ALCOBENDAS Y GINER DE LOS RIOS",
+            "ACTO DE GRADUACIÓN",
+            "PARTICIPACION EN FERIA DE LAS ASOCIACIONES",
+            "TORNEO DEPORTIVO FUTBOL SALA"
+        ],
+        "cost": 234390.0
+    },
+    "AMPA JUAN XXIII": {
+        "activities": [
+            "TALLER DE MANUALIDADES",
+            "TALLER DE MANUALIDADES",
+            "TALLER DE JUEGOS DIDACTICOS",
+            "TALLER DE MAGIA"
+        ],
+        "cost": 258198.0
+    },
+    "AMPA SAN ANTONIO": {
+        "activities": [
+            "GRANJA ESCUELA",
+            "GRANJA ESCUELA",
+            "VISITA AL PARQUE DE AVENTURAS AMAZONIA",
+            "ASISTENCIA AL CIRCO MUNDIAL"
+        ],
+        "cost": 299683.0
+    },
+    "AMPA PADRE  MANYANET": {
+        "activities": [
+            "FERIA DE LA SEMANA CULTURAL",
+            "FERIA DE LA SEMANA CULTURAL",
+            "BIBLIOTECA DE EDUCACION PRIMARIA DE LA APA",
+            "FERIA DE ROBOTICA",
+            "LUDOTECA FIESTA FIN DE CURSO"
+        ],
+        "cost": 349582.0
+    },
+    "AMPA FAPA": {
+        "activities": [
+            "JORNADA FAPA-APAS: ENCUENTROS DE PARTICIPACION",
+            "JORNADA FAPA-APAS: ENCUENTROS DE PARTICIPACION",
+            "25 ANIVERSARIO FAPA ALCOBENDAS",
+            "REVISTA DE LA FEDERACION LA ESCUELA EN ALCOBENDAS"
+        ],
+        "cost": 391843.0
+    }
+}
